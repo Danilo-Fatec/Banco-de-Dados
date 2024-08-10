@@ -1,2 +1,2 @@
-# Banco-de-Dados
-Repositório para as aulas de Banco de Dados de 2024
+# Banco-de-Dados-Relacional
+Repositório para as aulas de Banco de Dados Relacional de 2024
